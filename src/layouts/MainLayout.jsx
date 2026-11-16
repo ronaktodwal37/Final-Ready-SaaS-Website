@@ -46,8 +46,8 @@ export default function MainLayout() {
             key={location.pathname}
             initial={{ opacity: 0, y: 8 }}
             animate={{ opacity: 1, y: 0 }}
-            exit={{ opacity: 0, y: -5 }}
-            transition={{ duration: 0.25 }}
+            // exit={{ opacity: 0, y: -5 }}
+            // transition={{ duration: 0.25 }}
           >
             <Outlet />
           </motion.div>

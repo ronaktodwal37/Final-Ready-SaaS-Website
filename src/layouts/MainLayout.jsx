@@ -26,8 +26,8 @@ export default function MainLayout() {
       "/faq": "Find answers about FlowPilot features, pricing, support, and getting started.",
       "/contact": "Request an illustrative FlowPilot product demo through a frontend-only form.",
     };
-    // document.title = titles[location.pathname] || "Page not found — FlowPilot";
-    // let meta = document.querySelector('meta[name="description"]');
+    document.title = titles[location.pathname] || "Page not found — FlowPilot";
+    let meta = document.querySelector('meta[name="description"]');
     if (!meta) {
       meta = document.createElement("meta");
       meta.name = "description";

@@ -28,11 +28,11 @@ export default function MainLayout() {
     };
     // document.title = titles[location.pathname] || "Page not found — FlowPilot";
     // let meta = document.querySelector('meta[name="description"]');
-    if (!meta) {
-      meta = document.createElement("meta");
-      meta.name = "description";
-      document.head.appendChild(meta);
-    }
+    // if (!meta) {
+    //   meta = document.createElement("meta");
+    //   meta.name = "description";
+    //   document.head.appendChild(meta);
+    // }
     meta.content =
       descriptions[location.pathname] || "The requested FlowPilot page could not be found.";
   }, [location.pathname]);

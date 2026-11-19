@@ -6,7 +6,7 @@ import { faqGroups } from "../data/content";
 
 export default function FAQ() {
   // const [query, setQuery] = useState("");
-  // const [open, setOpen] = useState("What is FlowPilot?");
+  const [open, setOpen] = useState("What is FlowPilot?");
   const groups = useMemo(
     () =>
       faqGroups

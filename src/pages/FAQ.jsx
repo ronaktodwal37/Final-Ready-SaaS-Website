@@ -5,7 +5,7 @@ import { CTASection, Eyebrow } from "../components/UI";
 import { faqGroups } from "../data/content";
 
 export default function FAQ() {
-  // const [query, setQuery] = useState("");
+  const [query, setQuery] = useState("");
   const [open, setOpen] = useState("What is FlowPilot?");
   const groups = useMemo(
     () =>

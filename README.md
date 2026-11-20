@@ -57,6 +57,17 @@ The project focuses on clean visual hierarchy, responsive layouts, smooth transi
 - **Lucide React** — Clean, consistent iconography
 - **CSS** — Custom design tokens, gradients, component styles, and responsive enhancements
 
+## 🎨 Design Decisions & Challenges Solved
+
+- **Modern UI/UX:** Designed a clean, premium SaaS interface with a light theme, consistent color palette, and intuitive layouts.
+- **User-Centric Design:** Prioritized clear navigation, visual hierarchy, and readability to make the platform easy to explore.
+- **Reusable Architecture:** Built modular and reusable components to maintain consistency and simplify future development.
+- **Responsive Experience:** Optimized layouts for desktop, tablet, and mobile screens to ensure a seamless experience across devices.
+- **Interactive Elements:** Added smooth animations, engaging hover effects, and intuitive interactions to improve user engagement.
+- **Visual Consistency:** Maintained consistent spacing, typography, buttons, and component styling across all pages.
+- **Challenges Solved:** Addressed responsive layout issues, component consistency, and UI alignment while ensuring a polished experience across different screen sizes.
+
+
 ## Getting Started
 
 ### Prerequisites

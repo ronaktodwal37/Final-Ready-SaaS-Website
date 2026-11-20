@@ -21,21 +21,6 @@ The project focuses on clean visual hierarchy, responsive layouts, smooth transi
 
 > Note: FlowPilot is a frontend demonstration project. Customer names, statistics, testimonials, and product claims are illustrative.
 
-## Live Demo
-
-🔗 **Website:** [Add your deployed website URL here](YOUR_LIVE_DEMO_LINK)
-
-## Screenshots
-
-### Desktop Layout
-
-![FlowPilot desktop homepage](./screenshots/desktop-home.png)
-
-### Mobile Layout
-
-![FlowPilot mobile homepage](./screenshots/mobile-home.png)
-
-> Add your own screenshots to a `screenshots` folder in the repository using the filenames above.
 
 ## Features
 

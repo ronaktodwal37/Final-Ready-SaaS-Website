@@ -4,7 +4,7 @@ import {
   // ChartNoAxesCombined,
   // FolderKanban,
   // ListChecks,
-  MessagesSquare,
+  // MessagesSquare,
 } from "lucide-react";
 
 export const features = [

@@ -1,6 +1,6 @@
 import {
-  // BellRing,
-  // Bot,
+  BellRing,
+  Bot,
   ChartNoAxesCombined,
   FolderKanban,
   ListChecks,

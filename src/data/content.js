@@ -3,8 +3,8 @@ import {
   // Bot,
   // ChartNoAxesCombined,
   // FolderKanban,
-  // ListChecks,
-  // MessagesSquare,
+  ListChecks,
+  MessagesSquare,
 } from "lucide-react";
 
 export const features = [

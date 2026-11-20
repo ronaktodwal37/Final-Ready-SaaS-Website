@@ -5,13 +5,6 @@
 </p>
 
 <p align="center">
-  <a href="YOUR_LIVE_DEMO_LINK">Live Demo</a> ·
-  <a href="#features">Features</a> ·
-  <a href="#getting-started">Getting Started</a> ·
-  <a href="#design-choices-and-challenges">Design Notes</a>
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=white" alt="React" />
   <img src="https://img.shields.io/badge/Vite-8-646CFF?logo=vite&logoColor=white" alt="Vite" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-4-38BDF8?logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />

@@ -1,6 +1,6 @@
 import { ArrowRight, Check, GitBranch, Sparkles, Zap } from "lucide-react";
 import { motion } from "framer-motion";
-import DashboardPreview from "../components/DashboardPreview";
+// import DashboardPreview from "../components/DashboardPreview";
 import { features } from "../data/content";
 import { Button, CTASection, Eyebrow, Reveal, SectionHeading } from "../components/UI";
 

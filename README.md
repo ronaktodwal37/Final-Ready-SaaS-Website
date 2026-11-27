@@ -1,4 +1,4 @@
-# FlowPilot — Workflow Management SaaS Landing
+# FlowPilot — Workflow Management SaaS Landing-Page
 
 <p align="center">
   A modern, responsive SaaS website for a fictional workflow-management platform.
